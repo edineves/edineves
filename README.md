@@ -1,8 +1,8 @@
 ### Hi 👋
- Mesmo atuando no Sistema Financeiro mantive minha paixão por Análise de Sistemas, possuo experiências no atendimento e satisfação a clientes, trabalho em equipe e estratégias para entrega de resultadoss, atuamente estou estoudando  Análise e Desenvilvimento de Sistemas e cursando meu segundo ano na Faculdado estou dando meus primeiros passos na construção e hospedagem de sites adquirindo conhecimentos em HTML, CSS, JavaScript, JAVA, Python, SQL, MySQL, PHP entre outros programas 
+ Mesmo atuando no Sistema Financeiro mantive minha paixão por Análise de Sistemas, possuo experiências no atendimento e satisfação a clientes, trabalho em equipe e estratégias para entrega de resultadoss, atuamente sou estudande em Análise e Desenvilvimento de Sistemas e cursando meu segundo ano na Faculdado, dando meus primeiros passos na construção e hospedagem de sites adquirindo conhecimentos em HTML, CSS, JavaScript, Java, Python, SQL, MySQL, PHP entre outros programas 
  
-- 🔭 Atualmente estou em busca de recolocação na area para que eu possa consolidar meus conhecimentos.
-- 🌱 Para este semestre tenho como objetivo me aperfeiçoar no Fron-end, SQL e desenvolvimetno de projetos.
+- 🔭 Atualmente busco oportunidade de recolocação na área para que possa consolidar meus conhecimentos.
+- 🌱 Para este semestre tenho como objetivo me aperfeiçoar no Front-end, SQL e desenvolvimetno de projetos.
 - 🤝 Agradeço sua visita e convido para conhecer minhas redes sociais. 
 
 
