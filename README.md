@@ -1,8 +1,8 @@
 ### Hi 👋
- Mesmo atuando por trinta anos na área financeira mantive minha paixão por desenvolvimentos de sistemas, possuo experiências no atendimento e satisfação a clientes, trabalho em equipe e estratégias para entrega de resultados, no momento sou estudante de Análise e Desenvilvimento de Sistemas e cursando meu segundo ano na Faculdade estou dando meus primeiros passos na construção e hospedagem de sites adquirindo conhecimentos em HTML, CSS, JavaScript, Java, Python, SQL, MySQL, PHP entre outros programas.
+ Mesmo atuando por trinta anos na área financeira, mantive acesa minha paixão por fotografia e desenvolvimentos de sistemas, possuo experiências no atendimento e satisfação a clientes, trabalho em equipe e estratégias para entrega de resultados. Estudante de Análise e Desenvilvimento de Sistemas cursando meu segundo ano, estou construindo e hospendando sites com temas variados e adquirindo conhecimentos em HTML, CSS, JavaScript, Java, Python, SQL, MySQL, PHP entre outros programas.
  
 - 🔭 Atualmente busco oportunidade de recolocação na área para que possa consolidar meus conhecimentos.
-- 🌱 Para este semestre tenho como objetivo me aperfeiçoar no Front-end, SQL e desenvolvimetno de projetos.
+- 🌱 Para este semestre tenho como objetivo me aperfeiçoar no Front-end, SQL e desenvolvimento de projetos.
 - 🤝 Agradeço sua visita e convido para conhecer minhas redes sociais. 
 
 
