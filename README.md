@@ -1,4 +1,4 @@
-### Olá Olá 👋
+### Olá 👋
  #### Meu nome é Edison Soares, sou de São Paulo - Brazil, estudante de Análise e Desenvolvimento de Sistemas, utilizo o Github como ferramenta para consolidar meus aprenzados em HTML, CSS, Java, Python, PHP, SQL e MySQL  e divulga-los.         
 obrigado pela visíta e acesse minhas redes.
 
