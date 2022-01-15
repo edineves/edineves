@@ -5,7 +5,7 @@
 - 🌱 Para este semestre tenho como objetivo me aperfeiçoar no Fron-end, SQL e desenvolvimetno de projetos.
 - 🤝 Agradeço sua visita e convido para conhecer minhas redes sociais. 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=https://github.com/edineves)
+![ https://github.com/edineves ](https://github-readme-stats.vercel.app/api?username=https://github.com/edineves)
 
 ![YOUR github stats](https://github.com/edineves)
 
