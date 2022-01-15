@@ -1,8 +1,7 @@
-### Hi there 👋
-
+### Olá Olá 👋
 <!--
-**edineves/edineves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ #### Meu nome é Edison Soares, sou de São Paulo - Brazil, estudante de Análise e Desenvolvimento de Sistemas, utilizo o Github como ferramenta para consolidar meus aprenzados em HTML, CSS, Java, Python, PHP, SQL e MySQL  e divulga-los.         
+obrigado pela visíta e acesse minhas redes.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
