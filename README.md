@@ -3,7 +3,7 @@
    Estudante de Análise e Desenvolvimento de Sistemas cursando meu segundo ano, estou construindo e hospendando sites com temas variados e adquirindo conhecimentos em HTML, CSS, JavaScript, Java, Python, SQL, MySQL, PHP entre outros programas.
  
 - 🔭 Atualmente busco oportunidade na área para que possa consolidar meus conhecimentos.
-- 🌱 Para este semestre tenho como objetivo me aperfeiçoar no Front-end, SQL e desenvolvimento de projetos.
+- 🌱 Para este semestre tenho como objetivo me aperfeiçoar em Banco de Dados, Python, SQL e desenvolvimento de projetos.
 - 🤝 Agradeço sua visita e convido para conhecer minhas redes sociais. 
 
 
