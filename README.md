@@ -4,7 +4,7 @@
  
 - 🔭 Atualmente busco oportunidade na área para que possa consolidar meus conhecimentos.
 - 
-- 🌱 Para este semestre tenho como objetivo me aperfeiçoar em Banco de Dados, Estatisca R, Ferramentas Cloud Databricks, Elasticsearch, Estatistica Python, SQL e desenvolvimento de projetos.
+- 🌱 Para este semestre tenho como objetivo me aperfeiçoar em Banco de Dados, Estatisca R, Ferramentas Cloud Databricks, Elasticsearch, Estatistica Python, SQL, Java e desenvolvimento de projetos.
 - 
 - 🤝 Agradeço sua visita e convido para conhecer minhas redes sociais. 
 
