@@ -1,10 +1,10 @@
 ### Hi 👋
-   Mesmo atuando por trinta anos na área financeira, mantive acesa minha paixão por fotografia e desenvolvimentos de sistemas, possuo experiências no atendimento e satisfação a clientes, trabalho em equipe e estratégias para entrega de resultados. 
-   Estudante de Análise e Desenvolvimento de Sistemas cursando meu segundo ano, estou construindo e hospendando sites com temas variados e adquirindo conhecimentos em HTML, CSS, JavaScript, Java, Python, SQL, MySQL, PHP entre outros programas.
+   Atuei por trinta anos no varejo bancário e sempre mantive acesa minha paixão por fotografia e TI, possuo experiências no atendimento e satisfação a clientes, trabalho em equipe e estratégias para entrega de resultados. 
+   Estudante de Análise e Desenvolvimento de Sistemas cursando meu segundo ano onde adquiri conhecimentos em HTML, CSS, JavaScript, Java, Python, SQL, MySQL, PHP entre outros.
  
-- 🔭 Atualmente busco oportunidade na área para que possa consolidar meus conhecimentos.
+- 🔭 Atualmente estou estágiando na área de Suprimentos e Dados na empresa Cummins Brasil onde terei a possibilidade de consolidar meus conhecimentos em Análise de Dados.
 - 
-- 🌱 Para este semestre tenho como objetivo me aperfeiçoar em Banco de Dados, Estatisca R, Ferramentas Cloud Databricks, Elasticsearch, Estatistica Python, SQL, Java e desenvolvimento de projetos.
+- 🌱 Para este semestre tenho como objetivo me aperfeiçoar em Banco de Dados, Power BI, Estatisca R, Ferramentas Cloud Databricks, Elasticsearch, Estatistica Python, SQL, Java e desenvolvimento de projetos.
 - 
 - 🤝 Agradeço sua visita e convido para conhecer minhas redes sociais. 
 
