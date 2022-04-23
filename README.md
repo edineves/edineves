@@ -2,11 +2,11 @@
    Trabalhei por trinta anos no varejo bancário sou um apaixonado por viagens, fotografia e Tecnologia, possuo experiências no atendimento e satisfação a clientes, trabalho em equipe e estratégias para entrega de resultados. 
    Estudante de Análise e Desenvolvimento de Sistemas cursando meu segundo ano adquiri conhecimentos em HTML, CSS, Java, Python, SQL, PHP entre outros.
  
-- 🔭 Atualmente estou estágiando na AAI(Analytics and Artificial Intelligence) da empresa Cummins Brasil, tenho a oportunidade de ampliar e consolidar meus conhecimentos em Análise de Dados voltados para geração de novos negócios e resultados utilizando ferramentas como PowerBi, Liguagem R e Python.
+- 🔭 Atualmente estou estágiando na AAI(Analytics and Artificial Intelligence) da empresa Cummins Brasil, tenho a oportunidade de ampliar e consolidar meus conhecimentos em Análise de Dados voltados para geração de novos negócios e resultados utilizando ferramentas como PowerBI, Liguagem R, Python e Databricks.
 - 
 - 🌱 Para este semestre tenho como objetivo me aprofundar nas ferramentas, adquirir informações relacionadas a área e desenvolvimento de projetos.
 - 
-- 🤝 Agradeço sua visita e convido para conhecer minhas redes sociais. 
+- 🤝 Agradeço pela visíta e conhecer minhas redes sociais. 
 
 
 (https://github.com/edineves)
