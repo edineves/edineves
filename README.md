@@ -2,7 +2,7 @@
    Trabalhei por trinta anos no varejo bancário sou um apaixonado por viagens, fotografia e Tecnologia, possuo experiências no atendimento e satisfação a clientes, trabalho em equipe e estratégias para entrega de resultados. 
    Estudante de Análise e Desenvolvimento de Sistemas cursando meu segundo ano adquiri conhecimentos em HTML, CSS, Java, Python, SQL, PHP entre outros.
  
-- 🔭 Atualmente estou estágiando na AAI(Analytics and Artificial Intelligence) da empresa Cummins Brasil, tenho a oportunidade de ampliar e consolidar meus conhecimentos em Análise de Dados voltados para geração de novos negócios e resultados utilizando ferramentas como PowerBI, Liguagem R, Python e Databricks.
+- 🔭 Atualmente estou estagiando em business intelligence da empresa Cummins Brasil, tenho a oportunidade de ampliar e consolidar meus conhecimentos em Análise de Dados voltados para geração de novos negócios e resultados utilizando ferramentas como PowerBI, Liguagem R, Python e Databricks.
 - 
 - 🌱 Para este semestre tenho como objetivo me aprofundar nas ferramentas, adquirir informações relacionadas a área e desenvolvimento de projetos.
 - 
@@ -13,7 +13,7 @@
    I worked for thirty years in retail banking and am passionate about travel, photography and technology, I have experience in customer service and satisfaction, teamwork and strategies for delivering results.
     Systems Analysis and Development student in my second year I acquired knowledge in HTML, CSS, Java, Python, SQL, PHP among others.
  
-- 🔭 I am currently an intern at AAI (Analytics and Artificial Intelligence) at Cummins Brasil, I have the opportunity to expand and consolidate my knowledge in Data Analysis aimed at generating new business and results using tools such as PowerBI, R Language, Python and Databricks.
+- 🔭 I am currently an intern in business intelligence at Cummins Brasil, I have the opportunity to expand and consolidate my knowledge in Data Analysis aimed at generating new business and results using tools such as PowerBI, R Language, Python and Databricks.
 - 
 - 🌱 For this semester, I aim to delve into the tools, acquire information related to the area and project development.
 - 
