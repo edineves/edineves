@@ -1,5 +1,5 @@
 ### Olá 👋
-   Trabalhei por trinta anos no varejo bancário sou um apaixonado por viagens, fotografia e Tecnologia, possuo experiências no atendimento e satisfação a clientes, trabalho em equipe e estratégias para entrega de resultados. 
+   Trabalhei por trinta anos no varejo bancário possuo experiências no atendimento e satisfação a clientes, trabalho em equipe e estratégias para entrega de resultados. 
    Estudante de Análise e Desenvolvimento de Sistemas cursando meu segundo ano adquiri conhecimentos em HTML, CSS, Java, Python, SQL, PHP entre outros.
  
 - 🔭 Atualmente estou estagiando em business intelligence da empresa Cummins Brasil, tenho a oportunidade de ampliar e consolidar meus conhecimentos em Análise de Dados voltados para geração de novos negócios e resultados utilizando ferramentas como SSDT Visual Studio, SQL Management, PowerBI, Liguagem R, Python e Databricks.
