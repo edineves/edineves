@@ -1,8 +1,8 @@
 ### Olá 👋
-   Trabalhei por trinta anos no varejo bancário possuo experiências no atendimento e satisfação a clientes, trabalho em equipe e estratégias para entrega de resultados. 
-   Estudante de Análise e Desenvolvimento de Sistemas cursando meu segundo ano adquiri conhecimentos em HTML, CSS, Java, Python, SQL, PHP entre outros.
+   Trabalhei no varejo bancário possuo experiências no atendimento e satisfação a clientes, trabalho em equipe e estratégias para entrega de resultados. 
+   Formado em Análise e Desenvolvimento de Sistemas cursando meu segundo ano adquiri conhecimentos em HTML, CSS, Java, Python, SQL, PHP entre outros.
  
-- 🔭 Atualmente no cargo de Analista de Sistemas, como foco em business Analytics na empresa Cummins Brasil, tenho a oportunidade de ampliar e consolidar meus conhecimentos em Análise de Dados voltados para geração de novos negócios e resultados utilizando ferramentas como SSDT Visual Studio, SQL Management, PowerBI, Liguagem R, Python e Databricks.
+- 🔭 Atualmente no cargo de Analista de Sistemas PL, como foco em business Analytics na empresa Cummins Brasil, tenho a oportunidade de ampliar e consolidar meus conhecimentos em Análise de Dados voltados para geração de novos negócios e resultados utilizando ferramentas como SSDT Visual Studio, SQL Management, PowerBI, Liguagem R, Python e Databricks.
 - 
 - 🌱 Para este semestre tenho como objetivo me aprofundar nas ferramentas, adquirir informações relacionadas a área e desenvolvimento de projetos.
 - 
@@ -10,7 +10,7 @@
 
 
 ### Hi 👋
-   I worked for thirty years in retail banking and am passionate about travel, photography and technology, I have experience in customer service and satisfaction, teamwork and strategies for delivering results.
+   I worked in retail banking and am passionate about travel, photography and technology, I have experience in customer service and satisfaction, teamwork and strategies for delivering results.
     Systems Analysis and Development student in my second year I acquired knowledge in HTML, CSS, Java, Python, SQL, PHP among others.
  
 - 🔭 Currently systems analyst in Business Analytics at Cummins Brasil, I have the opportunity to expand and consolidate my knowledge in Data Analysis aimed at generating new business and results using tools such as PowerBI, R Language, Python and Databricks.
